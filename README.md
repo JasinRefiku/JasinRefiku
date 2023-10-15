@@ -4,7 +4,7 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasinRefiku&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JasinRefiku&theme=nord)]
+![trophy](https://github-profile-trophy.vercel.app/?username=JasinRefiku&theme=nord)
 
 <!--
 **JasinRefiku/JasinRefiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
